@@ -1,0 +1,9 @@
+li
+{
+  list-style: none;
+  cursor: pointer;
+}
+nav{
+  background-color: rgb(237, 74, 5);
+  color: rgb(96, 216, 10);
+}
